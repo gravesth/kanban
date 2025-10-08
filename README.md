@@ -2,6 +2,10 @@
 
 A simple **Kanban board** web application built for task management with team collaboration features. This project is in an **early stage**, so you may encounter some bugs or incomplete features
 
+## Preview
+
+![Kanban Interface](image_2025-06-02_04-47-46.png)
+
 ## Features
 
 * Create, edit, delete tasks
