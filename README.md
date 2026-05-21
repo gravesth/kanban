@@ -75,16 +75,10 @@ npm run dev
 The frontend will open in your browser at `http://localhost:5173`)
 
 
-## Login credentials
+## Login information
 
-Authentication is **frontend-only** (see `src/lib/auth/AuthContext.tsx`); the backend does not validate login credentials.
-
-| Role    | Username | Password | user_id |
-|---------|----------|----------|---------|
-| Teacher | `teacher` | `teacher` | 1 |
-| Student | `student` | `student` | 2 |
-
-For API calls to work correctly, users with `id` 1 and 2 should exist in your PostgreSQL database.
+| Teacher | `teacher` | `teacher` 
+| Student | `student` | `student` 
 
 ## Notes
 * This is a **work-in-progress** version. Some features may not be fully implemented or may contain bugs.
